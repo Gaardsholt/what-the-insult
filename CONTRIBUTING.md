@@ -9,4 +9,4 @@ When adding insults, please sort the list before you submit the pull request.
 `sort insults.txt /o insults.txt`
 
 ## License
-By contributing to this project, you agree to license your contributions as open source with the MIT license.
+By contributing to this project, you agree to license your contributions as open source with the [MIT license](LICENSE).
